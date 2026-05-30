@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+
+# locally saved faiss index
+faiss_index
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Vector Database
+vectorstore/
+faiss_index/
+
+# Uploaded PDFs
+pdfs/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
